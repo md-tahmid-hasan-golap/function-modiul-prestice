@@ -2,7 +2,7 @@
 //     const sum = num1 + num2;
 //     const biyog = num1 - num2;
 //     const borgo = sum * borgo;
-//     const total = biyog / total;
+//     const total = borgo / 2;
 //     console.log(total)
 
 
