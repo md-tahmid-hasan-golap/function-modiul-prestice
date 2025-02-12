@@ -34,7 +34,7 @@ function sumnumber (numbers){
         sum = sum + number
     }
 return sum
-}
+}evenSizeString.js
 
 const number = [33, 55, 77, 99];
 const total = sumnumber(number)
